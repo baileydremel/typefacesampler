@@ -1,5 +1,5 @@
 <h1 align ='center'>An updated version of the typeface sampler has been created!!!</h1>
-<p align='center'><b><a href='https://github.com/baileyldremel/terminal10remake'>Click here to check it out!</a></b></p>
+<p align='center'><b><a href='https://github.com/baileydremel/terminal10remake'>Click here to check it out!</a></b></p>
 
 ---
 
