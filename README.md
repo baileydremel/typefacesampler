@@ -8,4 +8,4 @@
 
 The typeface sampler for my A to the K Studio project.
  
-https://baileyldremel.com/typefacesampler/TerminalTypeSampler/
+https://baileydremel.com/typefacesampler/TerminalTypeSampler/
